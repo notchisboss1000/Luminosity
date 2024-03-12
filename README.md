@@ -5,5 +5,6 @@ Welcome to Luminosity! A world where **YOU** are the being of legend. You have b
   <summary>Update History</summary>
   
   Demo Ver. 3
+  > 
   
 </details>
