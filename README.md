@@ -3,7 +3,7 @@ Welcome to Luminosity! A world where **YOU** are the being of legend. You have b
 <br/>
 
 <details>
-  <summary> Version History<summary>
+  <summary>Version History<summary>
     
   Demo Version 3
 
